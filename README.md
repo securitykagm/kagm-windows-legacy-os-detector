@@ -47,3 +47,21 @@ Script **salt-okunur (read-only)** çalışır ve sistemlerde herhangi bir deği
 ### 1️⃣ Sonuçları CSV olarak dışa aktarmak için
 
 ```.\Find-LegacyAndWin10Builds.ps1 `-IncludeWindows10 `-ExportCsv `-ExportPath "C:\Temp\os_envanteri.csv"```
+
+## Katkıda Bulunma
+
+Katkılar memnuniyetle karşılanmaktadır.  
+Büyük veya kapsamlı değişiklikler için, lütfen öncelikle yapılması planlanan değişikliği görüşmek üzere bir *issue* açınız.
+
+<div align="center">
+<hr/>
+
+<a href="https://www.sanayi.gov.tr" target="_blank">
+  <img src="https://img.shields.io/badge/Sanayi%20ve%20Teknoloji%20Bakanligi-blue.svg"/>
+</a>
+
+<a href="https://www.kalkinmaajanslari.gov.tr" target="_blank">
+  <img src="https://img.shields.io/badge/Kalkinma%20Ajanslari%20Genel%20Mudurlugu-darkgreen.svg"/>
+</a>
+
+</div>
