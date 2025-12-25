@@ -60,7 +60,7 @@ Büyük veya kapsamlı değişiklikler için, lütfen öncelikle yapılması pla
   <img src="https://img.shields.io/badge/Sanayi%20ve%20Teknoloji%20Bakanligi-blue.svg"/>
 </a>
 
-<a href="https://www.kalkinmaajanslari.gov.tr" target="_blank">
+<a href="https://ka.gov.tr" target="_blank">
   <img src="https://img.shields.io/badge/Kalkinma%20Ajanslari%20Genel%20Mudurlugu-darkgreen.svg"/>
 </a>
 
